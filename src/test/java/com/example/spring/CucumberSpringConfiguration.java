@@ -4,7 +4,7 @@ import io.cucumber.spring.CucumberContextConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @CucumberContextConfiguration
-@SpringBootTest(classes = CucumberRunner.class)
+@SpringBootTest(classes = RunCucumberTest.class)
 public class CucumberSpringConfiguration {
 
 }
