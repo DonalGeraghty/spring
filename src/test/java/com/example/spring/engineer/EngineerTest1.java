@@ -1,5 +1,6 @@
-package com.example.spring;
+package com.example.spring.engineer;
 
+import com.example.spring.JuniorEngineer;
 import com.example.spring.calc.SeniorEngineer;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

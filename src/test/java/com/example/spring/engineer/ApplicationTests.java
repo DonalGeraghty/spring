@@ -1,5 +1,8 @@
-package com.example.spring;
+package com.example.spring.engineer;
 
+import com.example.spring.Moon;
+import com.example.spring.Planet;
+import com.example.spring.Widget;
 import com.example.spring.calc.Calculator;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
